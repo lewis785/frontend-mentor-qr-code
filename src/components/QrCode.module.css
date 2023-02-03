@@ -1,0 +1,33 @@
+@import "../vars.css";
+
+.container {
+  display: flex;
+  flex-direction: column;
+  height: 500px;
+  width: 320px;
+  background-color: var(--white);
+  padding: 1rem;
+  border-radius: 20px;
+  text-align: center;
+}
+
+.container img {
+  border-radius: 10px;
+}
+
+.title {
+  color: var(--darkBlue);
+  font-weight: 700;
+  font-size: 22px;
+  margin-top: 1.875rem;
+  margin-bottom: 1.375rem;
+  padding-inline: 1rem;
+}
+
+.description {
+  color: var(--grayBlue);
+  font-weight: 400;
+  font-size: 0.9375rem;
+  margin-bottom: 1.5rem;
+  padding-inline: 1.8rem;
+}
