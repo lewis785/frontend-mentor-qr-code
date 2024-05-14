@@ -1184,7 +1184,7 @@ const RAW_RUNTIME_STATE =
         "packageLocation": "../../.yarn/berry/cache/make-dir-npm-3.1.0-d1d7505142-10c0.zip/node_modules/make-dir/",\
         "packageDependencies": [\
           ["make-dir", "npm:3.1.0"],\
-          ["semver", "npm:6.3.0"]\
+          ["semver", "npm:6.3.1"]\
         ],\
         "linkType": "HARD"\
       }]\
@@ -1688,10 +1688,10 @@ const RAW_RUNTIME_STATE =
       }]\
     ]],\
     ["semver", [\
-      ["npm:6.3.0", {\
-        "packageLocation": "../../.yarn/berry/cache/semver-npm-6.3.0-b3eace8bfd-10c0.zip/node_modules/semver/",\
+      ["npm:6.3.1", {\
+        "packageLocation": "../../.yarn/berry/cache/semver-npm-6.3.1-bcba31fdbe-10c0.zip/node_modules/semver/",\
         "packageDependencies": [\
-          ["semver", "npm:6.3.0"]\
+          ["semver", "npm:6.3.1"]\
         ],\
         "linkType": "HARD"\
       }],\
